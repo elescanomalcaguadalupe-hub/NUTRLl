@@ -1,0 +1,6 @@
+{
+  "name": "NutriBox",
+  "description": "Comida saludable, rápida y accesible para universitarios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
