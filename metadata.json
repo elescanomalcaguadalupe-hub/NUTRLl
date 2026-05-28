@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Nutribox",
+  "description": "Sano, rápido y rico. Comida saludable, práctica y accesible para tu día a día universitario.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
